@@ -2,7 +2,8 @@
 
 ![banner](./public/aideation-banner.jpeg)
 
-This project combines Next.js with Drizzle ORM for PostgreSQL database management, inspired by [Elliot Choi's x FreeCodeCamp tutorial](https://www.youtube.com/watch?v=qDunJ0wVIec).
+This project combines Next.js with Drizzle ORM for PostgreSQL database management, inspired by [Elliott Chong
+'s x FreeCodeCamp tutorial](https://www.youtube.com/watch?v=qDunJ0wVIec).
 
 ![notes](./public/aideation-notes.jpeg)
 
