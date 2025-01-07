@@ -193,7 +193,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 
-This project's database setup is based on the tutorial by [Elliot Choi x FreeCodeCamp](https://www.youtube.com/watch?v=qDunJ0wVIec). Special thanks to Elliot for the excellent guidance!
+This project's database setup is based on the tutorial by [Elliott Chong
+ x FreeCodeCamp](https://www.youtube.com/watch?v=qDunJ0wVIec). Special thanks to Elliot for the excellent guidance!
 
 ## License
 
